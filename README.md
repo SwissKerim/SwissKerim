@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi! I'm Kerim Kale 👋
 I'm a Full-Stack developer living in Switzerland
 
 
