@@ -1,6 +1,7 @@
 ## Hi! I'm Kerim Kale 👋
 I'm a Full-Stack developer living in Switzerland
 
+Primary: .NET 6 and Angular +12
 
 ## My Tech Stack
 
