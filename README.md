@@ -27,7 +27,7 @@ Primary: .NET 6 and Angular +12
 <body>
     <div class="cards-wrapper">
         <div class="angular-card">
-            <img src="img/angular.png" alt="Angular" class="card-img-top">
+            <img src="https://github.com/SwissKerim/SwissKerim/assets/18723476/3846c4af-f515-41e3-8bc7-98e329b7d48f" alt="Angular" class="card-img-top">
             <span>Angular</span>
         </div>
     </div>
