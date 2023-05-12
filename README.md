@@ -5,10 +5,6 @@ Primary: .NET 6 and Angular +12
 
 ## My Tech Stack
 
-<head>
-
-</head>
-<body>
         <foreignObject>
 <style>
 body {
@@ -54,8 +50,6 @@ body {
             <span>Angular</span>
         </div>
     </div>
-   <div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwissKerim&show_icons=true&theme=transparent)</div>
-</body>
 
 
 <!--
@@ -71,6 +65,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+   <div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwissKerim&show_icons=true&theme=transparent)</div>
 -->
 
 <!-- -->
