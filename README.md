@@ -7,7 +7,6 @@ Primary: .NET 6 and Angular +12
 
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="styles.css">
     <style>
         body {
           font-family: 'Segoe UI', sans-serif;
