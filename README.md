@@ -22,21 +22,17 @@ Primary: .NET 6 and Angular +12
     <img alt="mysql" src="https://camo.githubusercontent.com/48cde1b2045c34344e7aee5341e3ba25784f4d75eb832a1021689153dd4e8f8e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d2532333434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d666666666666">
  </div>
     
- <div>
- <img src ="https://camo.githubusercontent.com/83ac988ea263f940d7ac8e8af8e6ba8fa6dab3421c6c0006abf11a954de55191/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d2532333234393645443f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d666666666666">
-    </div>
-
-
-    
-</body>
-
-
+ <div><img src ="https://camo.githubusercontent.com/83ac988ea263f940d7ac8e8af8e6ba8fa6dab3421c6c0006abf11a954de55191/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d2532333234393645443f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d666666666666"></div>
     <div class="cards-wrapper">
         <div class="angular-card">
             <img src="https://github.com/SwissKerim/SwissKerim/assets/18723476/3846c4af-f515-41e3-8bc7-98e329b7d48f" alt="Angular" class="card-img-top">
             <span>Angular</span>
         </div>
     </div>
+</body>
+
+
+
 <!--
 **SwissKerim/SwissKerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
