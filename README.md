@@ -10,31 +10,31 @@ Primary: .NET 6 and Angular +12
     <link rel="stylesheet" href="styles.css">
     <style>
         body {
-  font-family: 'Segoe UI', sans-serif;
-  line-height: 1.5;
-  background-color: #fff;
-  margin: 0;
-  padding: 0;
-}
-
-.cards-wrapper {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.angular-card {
-    height: 20px;
-    width: fit-content;
-    background-color: crimson;
-padding-right: 15px;
-    color: white;
-    font-size: 12px;
-    display: flex;
-}
-
-.angular-card img {
-    height: 20px;
+          font-family: 'Segoe UI', sans-serif;
+          line-height: 1.5;
+          background-color: #fff;
+          margin: 0;
+          padding: 0;
         }
+
+        .cards-wrapper {
+          display: flex;
+          flex-wrap: wrap;
+        }
+
+        .angular-card {
+            height: 20px;
+            width: fit-content;
+            background-color: crimson;
+        padding-right: 15px;
+            color: white;
+            font-size: 12px;
+            display: flex;
+        }
+
+        .angular-card img {
+            height: 20px;
+         }
     </style>
 </head>
 <body>
