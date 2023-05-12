@@ -5,37 +5,12 @@ Primary: .NET 6 and Angular +12
 
 ## My Tech Stack
 
-        <foreignObject>
-<style>
-body {
-  font-family: 'Segoe UI', sans-serif;
-  line-height: 1.5;
-  background-color: #fff;
-  margin: 0;
-  padding: 0;
-}
-.cards-wrapper {
-  display: flex;
-  flex-wrap: wrap;
-}
-.angular-card {
-    height: 20px;
-    width: fit-content;
-    background-color: crimson;
-    padding-right: 15px;
-    color: white;
-    font-size: 12px;
-    display: flex;
-}
-.angular-card img {
-    height: 20px;
- }
-</style>
-        </foreignObject>
+
 <div>
  <img alt="HTML5" src="https://camo.githubusercontent.com/9a7c8c4ee62739436a191706be9f786a813dc377ce778522da198cb94874dc22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666">
  <img alt="CSS3" src="https://camo.githubusercontent.com/19d98ab99fe0a1a5c00ef27920be3ada8548f2476877db0598960ac2a5f8788d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333">
   <img alt="JS" src="https://camo.githubusercontent.com/a1309b252e82434062012a8073fa9fc1416a96289b7ca11555577b9fbe1cf03e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541">
+<img src="https://github.com/SwissKerim/SwissKerim/assets/18723476/668483a2-5c42-428f-ae74-997624e76e9b">
 </div>
 
 <div>
@@ -44,12 +19,8 @@ body {
  </div>
     
  <div><img src ="https://camo.githubusercontent.com/83ac988ea263f940d7ac8e8af8e6ba8fa6dab3421c6c0006abf11a954de55191/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d2532333234393645443f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d666666666666"></div>
-    <div class="cards-wrapper">
-        <div class="angular-card">
-            <img src="https://github.com/SwissKerim/SwissKerim/assets/18723476/3846c4af-f515-41e3-8bc7-98e329b7d48f" alt="Angular" class="card-img-top">
-            <span>Angular</span>
-        </div>
-    </div>
+
+
 
 
 <!--
