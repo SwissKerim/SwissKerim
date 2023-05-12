@@ -7,7 +7,6 @@ Primary: .NET 6 and Angular +12
 
 <head>
     <meta charset="UTF-8">
-    <title>Bootstrap Cards</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 
