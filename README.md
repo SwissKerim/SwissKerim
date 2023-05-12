@@ -5,6 +5,12 @@ Primary: .NET 6 and Angular +12
 
 ## My Tech Stack
 
+<head>
+    <meta charset="UTF-8">
+    <title>Bootstrap Cards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
 <div>
  <img alt="HTML5" src="https://camo.githubusercontent.com/9a7c8c4ee62739436a191706be9f786a813dc377ce778522da198cb94874dc22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666">
  <img alt="CSS3" src="https://camo.githubusercontent.com/19d98ab99fe0a1a5c00ef27920be3ada8548f2476877db0598960ac2a5f8788d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333">
@@ -17,15 +23,15 @@ Primary: .NET 6 and Angular +12
  </div>
  <div>
  <img src ="https://camo.githubusercontent.com/83ac988ea263f940d7ac8e8af8e6ba8fa6dab3421c6c0006abf11a954de55191/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d2532333234393645443f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d666666666666"
- </div>
- 
-     <div class="cards-wrapper">
+
+<body>
+    <div class="cards-wrapper">
         <div class="angular-card">
-            <img src="https://github.com/SwissKerim/SwissKerim/assets/18723476/3846c4af-f515-41e3-8bc7-98e329b7d48f" alt="Angular" class="card-img-top">
+            <img src="img/angular.png" alt="Angular" class="card-img-top">
             <span>Angular</span>
         </div>
     </div>
-
+</body>
 <!--
 **SwissKerim/SwissKerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
