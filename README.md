@@ -1,5 +1,5 @@
-## Hi! I'm Kerim Kale 👋
-I'm a Full-Stack developer living in Switzerland
+## Hi! I'm Kerim 👋
+Full-Stack developer
 
 ## My Tech Stack
 
